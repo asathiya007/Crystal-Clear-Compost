@@ -37,7 +37,7 @@ public class SmartCompostGUIApp extends JFrame {
 	public SmartCompostGUIApp() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 310);
-		setTitle("Smart Compost GUI Application - An Akshay Sathiya Production");
+		setTitle("Crystal Clear Compost - An Akshay Sathiya Production");
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
