@@ -1,2 +1,2 @@
-# Smart-Compost-GUI-Application
+# Crystal-Clear-Compost
 This is a smart compost GUI application that allows the user (the owner of a compost pile/bin) to record, manage, and maintain data regarding their compost bin, such as the contents of the pile/bin, how much of certain materials are in the pile/bin, the total mass of the contents of the pile/bin, etc. There is also an FAQ feature that users can use to receive recommendations on what and what not to put into their compost to ensure more successful composting. The text files contain sample data to be used with the application. 
